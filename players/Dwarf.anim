@@ -1,0 +1,18 @@
+"players/Dwarf" {
+  Faces {
+    default {
+      south {
+        "players/Dwarf/east.png"
+      }
+      east {
+        "players/Dwarf/east.png"
+      }
+      north {
+        "players/Dwarf/east.png"
+      }
+      west {
+        "players/Dwarf/east.png"
+      }
+    }
+  }
+}
