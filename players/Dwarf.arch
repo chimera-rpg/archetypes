@@ -2,7 +2,8 @@
   Anim "players/Dwarf"
   Name "Dwarf"
   Type PC
-  Race Dwarf
+  Genus Anthro
+  Species Dwarf
   Size medium
   Constitution 2
   Wisdom 2
