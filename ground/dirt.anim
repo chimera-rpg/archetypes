@@ -1,4 +1,4 @@
-ground/dirt {
+"ground/dirt" {
   Faces {
     default {
       ground/dirt.png

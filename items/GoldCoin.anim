@@ -1,12 +1,10 @@
 "items/GoldCoin" {
   Faces {
-    default {
-      single {
-        "items/GoldCoin.png"
-      }
-      multiple {
-        "items/GoldCoins.png"
-      }
+    single {
+      items/GoldCoin.png
+    }
+    multiple {
+      items/GoldCoins.png
     }
   }
 }
