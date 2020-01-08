@@ -1,0 +1,4 @@
+ground/dirt:
+  Faces:
+    default:
+      Image: ground/dirt.png

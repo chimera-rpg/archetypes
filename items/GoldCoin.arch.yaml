@@ -1,0 +1,5 @@
+items/gold coin:
+  Name: gold coin
+  PluralName: gold coins
+  Value: 1000
+  Weight: 34

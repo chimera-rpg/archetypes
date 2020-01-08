@@ -1,6 +1,0 @@
-"items/gold coin" {
-  Name "gold coin"
-  PluralName "gold coins"
-  Value 1000 ; 1000 copper pieces
-  Weight 34 ; 33.9307828 grams or 1.0909 troy ounces
-}
