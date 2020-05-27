@@ -1,6 +1,6 @@
 items/GoldCoin:
   Faces:
     single: 
-      Image: items/GoldCoin.png
+      - Image: items/GoldCoin.png
     multiple:
-      Image: items/GoldCoins.png
+      - Image: items/GoldCoins.png

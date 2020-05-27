@@ -1,14 +1,14 @@
 players/Dwarf:
   Faces:
     south:
-      Image: players/Dwarf/east.png
-      Time: 0
+      - Image: players/Dwarf/east.png
+        Time: 0
     east:
-      Image: players/Dwarf/east.png
-      Time: 0
+      - Image: players/Dwarf/east.png
+        Time: 0
     north:
-      Image: players/Dwarf/east.png
-      Time: 0
+      - Image: players/Dwarf/east.png
+        Time: 0
     west:
-      Image: players/Dwarf/east.png
-      Time: 0
+      - Image: players/Dwarf/east.png
+        Time: 0

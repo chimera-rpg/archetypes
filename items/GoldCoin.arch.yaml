@@ -1,4 +1,4 @@
-items/gold coin:
+items/GoldCoin:
   Name: gold coin
   PluralName: gold coins
   Value: 1000
