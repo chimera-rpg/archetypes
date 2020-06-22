@@ -1,4 +1,6 @@
 items/GoldCoin:
+  Anim: items/GoldCoin
+  Face: single
   Name: gold coin
   PluralName: gold coins
   Value: 1000
