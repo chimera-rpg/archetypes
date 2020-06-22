@@ -1,3 +1,4 @@
 ground/dirt:
   Anim: ground/dirt
+  Face: default
   Description: An amalgamation Chimera's various substances.
