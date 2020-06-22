@@ -1,4 +1,6 @@
 players/Dwarf:
+  Archs:
+    - genera/Anthro
   Anim: "players/Dwarf"
   Name: "Dwarf"
   Type: PC
