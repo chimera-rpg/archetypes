@@ -16,14 +16,3 @@ players/Dwarf:
       Count: 5+2d6
     - Arch: items/GoldCoin
       Count: (5+1d6)*$^Level
-# Alt form, for testing.
-players/Dwarf2:
-  Anim: players/Dwarf
-  Name: Dwarf2
-  Type: PC
-  Race: Dwarf
-  Size: medium
-  Blocks: true
-  Inventory:
-    - Arch: items/GoldCoin
-      Count: 5+2d6
