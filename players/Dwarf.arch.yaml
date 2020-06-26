@@ -1,7 +1,8 @@
 players/Dwarf:
   Archs:
     - genera/Anthro
-  Anim: "players/Dwarf"
+  Anim: players/Dwarf
+  Face: south
   Name: "Dwarf"
   Type: PC
   Race: Dwarf
