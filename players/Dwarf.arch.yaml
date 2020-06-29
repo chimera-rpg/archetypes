@@ -7,6 +7,9 @@ players/Dwarf:
   Type: PC
   Race: Dwarf
   Size: medium
+  Height: 4
+  Width: 2
+  Depth: 2
   Description: >
     Dwarves are hardy mofos.
     :)
