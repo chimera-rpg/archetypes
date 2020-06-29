@@ -1,0 +1,9 @@
+TileWidth: 8
+TileHeight: 6
+YStep:
+  X: 1
+  Y: -4
+Adjustments:
+  Floor:
+    X: -1
+    Y: 4
