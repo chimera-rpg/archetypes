@@ -1,4 +1,6 @@
 ground/plank/tile:
+  Name: planks
   Type: Tile
   Anim: ground/plank
   Face: tile
+  Description: The flooring, not the fad.
