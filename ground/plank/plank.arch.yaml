@@ -1,0 +1,4 @@
+ground/plank/tile:
+  Type: Tile
+  Anim: ground/plank
+  Face: tile

@@ -1,0 +1,8 @@
+ground/stone/block:
+  Type: Block
+  Anim: ground/stone
+  Face: block
+ground/stone/tile:
+  Type: Tile
+  Anim: ground/stone
+  Face: tile

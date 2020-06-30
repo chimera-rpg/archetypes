@@ -1,0 +1,10 @@
+ground/dirt/block:
+  Type: Block
+  Face: block
+  Anim: ground/dirt
+  Description: An amalgamation Chimera's various substances.
+ground/dirt/tile:
+  Type: Tile
+  Face: tile
+  Anim: ground/dirt
+  Description: An amalgamation Chimera's various substances.

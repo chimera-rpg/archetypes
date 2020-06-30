@@ -1,0 +1,8 @@
+ground/grass/block:
+  Type: Block
+  Anim: ground/grass
+  Face: block
+ground/grass/tile:
+  Type: Tile
+  Anim: ground/grass
+  Face: tile

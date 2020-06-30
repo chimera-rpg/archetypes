@@ -1,4 +1,0 @@
-ground/dirt:
-  Faces:
-    default:
-      - Image: ground/dirt-new.png

@@ -1,0 +1,6 @@
+ground/grass:
+  Faces:
+    block:
+      - Image: ground/grass-block.png
+    tile:
+      - Image: ground/grass-tile.png

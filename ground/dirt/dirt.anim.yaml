@@ -1,0 +1,6 @@
+ground/dirt:
+  Faces:
+    block:
+      - Image: ground/dirt/block.png
+    tile:
+      - Image: ground/dirt/tile.png
