@@ -2,7 +2,7 @@ ground/dirt/block:
   Arch: block
   Name: dirt
   Anim: ground/dirt
-  Description: An amalgamation Chimera's various substances.
+  Description: An amalgamation of Chimera's various substances.
 ground/dirt/tile:
   Archs:
     - tile
