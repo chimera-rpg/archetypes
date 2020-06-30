@@ -1,10 +1,10 @@
 ground/stone/block:
+  Archs:
+    - block
   Name: stone
-  Type: Block
   Anim: ground/stone
-  Face: block
   Description: Some rigid form of stratum.
 ground/stone/tile:
-  Arch: ground/stone/block
-  Type: Tile
-  Face: tile
+  Archs:
+    - tile
+    - ground/stone/block

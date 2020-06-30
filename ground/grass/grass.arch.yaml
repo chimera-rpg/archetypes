@@ -1,10 +1,9 @@
 ground/grass/block:
+  Arch: block
   Name: grass
-  Type: Block
   Anim: ground/grass
-  Face: block
   Description: Something that is always greener on the other side.
 ground/grass/tile:
-  Arch: ground/grass/block
-  Type: Tile
-  Face: tile
+  Archs:
+    - tile
+    - ground/grass/block

@@ -1,10 +1,9 @@
 ground/dirt/block:
+  Arch: block
   Name: dirt
-  Type: Block
-  Face: block
   Anim: ground/dirt
   Description: An amalgamation Chimera's various substances.
 ground/dirt/tile:
-  Arch: ground/dirt/block
-  Type: Tile
-  Face: tile
+  Archs:
+    - tile
+    - ground/dirt/block
