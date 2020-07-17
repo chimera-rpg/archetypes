@@ -1,0 +1,4 @@
+decor/table:
+  Faces:
+    default:
+      - Image: decor/table.png

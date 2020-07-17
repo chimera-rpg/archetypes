@@ -1,0 +1,9 @@
+decor/table:
+  Type: Generic
+  Anim: decor/table
+  Face: default
+  Name: table
+  PluralName: tables
+  Width: 2
+  Depth: 2
+  Height: 2
