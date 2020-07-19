@@ -1,3 +1,9 @@
 block:
   Type: Block
   Face: block
+  Blocking:
+    - Physical
+    - Solid
+    - Liquid
+    - Gas
+    - Plasma
