@@ -1,0 +1,6 @@
+ground/void:
+  Archs:
+    - tile
+  Name: void
+  Anim: ground/void
+  Description: It could even be Vantablack!

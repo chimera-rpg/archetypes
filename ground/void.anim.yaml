@@ -1,0 +1,4 @@
+ground/void:
+  Faces:
+    tile:
+      - Image: ground/void.png
