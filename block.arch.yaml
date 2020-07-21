@@ -1,6 +1,9 @@
 block:
   Type: Block
   Face: block
+  Width: 1
+  Height: 1
+  Depth: 1
   Blocking:
     - Physical
     - Solid

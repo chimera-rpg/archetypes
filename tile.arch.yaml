@@ -1,3 +1,5 @@
 tile:
   Type: Tile
   Face: tile
+  Width: 1
+  Depth: 1
