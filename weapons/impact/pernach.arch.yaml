@@ -1,0 +1,9 @@
+weapons/impact/pernach:
+  Type: Weapon
+  Name: pernach
+  Damage: 2-6
+  Weapontypes:
+    Impact: 75%
+    Edged: 25%
+  Damagetypes:
+    Physical: 100%

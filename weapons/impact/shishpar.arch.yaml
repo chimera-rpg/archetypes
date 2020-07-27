@@ -1,0 +1,10 @@
+weapons/impact/shishpar:
+  Type: Weapon
+  Name: shishpar
+  Damage: 2-6
+  Weapontypes:
+    Impact: 55%
+    Edged: 35%
+    Pierce: 10%
+  Damagetypes:
+    Physical: 100%

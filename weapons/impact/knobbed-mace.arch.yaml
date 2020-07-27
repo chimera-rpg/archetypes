@@ -1,0 +1,9 @@
+weapons/impact/knobbed-mace:
+  Type: Weapon
+  Name: knobbed mace
+  Damage: 1-6
+  Weapontypes:
+    Impact: 80%
+    Pierce: 20%
+  Damagetypes:
+    Physical: 100%
