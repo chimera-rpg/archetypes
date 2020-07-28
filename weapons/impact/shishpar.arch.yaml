@@ -1,7 +1,8 @@
 weapons/impact/shishpar:
   Type: Weapon
   Name: shishpar
-  Damage: 2-6
+  Damage: 1d6
+  Attribute: Might
   Weapontypes:
     Impact: 55%
     Edged: 35%
