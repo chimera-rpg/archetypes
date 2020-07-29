@@ -2,7 +2,7 @@ weapons/impact/knobbed-mace:
   Type: Weapon
   Name: knobbed mace
   Damage: 1d6
-  Attacktypes:
-    Physical: 100%
-    Impact: 80%
-    Pierce: 20%
+  AttackTypes:
+    Physical: 100
+    Impact: 80
+    Pierce: 20
