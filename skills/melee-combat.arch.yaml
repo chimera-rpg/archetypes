@@ -1,6 +1,8 @@
 skills/melee-combat:
   Name: Melee Combat
   Type: Skill
+  Description: |
+    Whether lopping a head or splitting a dome, the past-time of melee combat is a great joy to be had.
   SkillTypes:
     - Melee Combat
   CompetencyTypes:
