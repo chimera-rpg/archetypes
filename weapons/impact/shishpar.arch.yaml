@@ -1,8 +1,8 @@
 weapons/impact/shishpar:
-  Type: Weapon
+  Archs:
+    - weapons/mace
   Name: shishpar
   Damage: 1d6
-  Attribute: Might
   AttackTypes:
     Physical: 100
     Impact: 55

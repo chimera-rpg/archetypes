@@ -1,5 +1,6 @@
 weapons/impact/knobbed-mace:
-  Type: Weapon
+  Archs:
+    - weapons/mace
   Name: knobbed mace
   Damage: 1d6
   AttackTypes:

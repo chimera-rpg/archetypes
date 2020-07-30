@@ -1,7 +1,8 @@
 weapons/impact/pernach:
-  Type: Weapon
+  Archs:
+    - weapons/mace
   Name: pernach
-  Damage: 2d6
+  Damage: 2d3
   AttackTypes:
     Physical: 100
     Impact: 75
