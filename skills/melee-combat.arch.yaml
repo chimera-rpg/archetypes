@@ -1,0 +1,15 @@
+skills/melee-combat:
+  Name: Melee Combat
+  Type: Skill
+  SkillTypes:
+    - Melee Combat
+  CompetencyTypes:
+    - Axe
+    - Daggers
+    - Swords
+    - Flails
+    - Polearms
+    - One Handed
+    - Two Handed
+    - Dual Handed
+    - Shield
