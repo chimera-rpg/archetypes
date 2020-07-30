@@ -1,6 +1,6 @@
-weapons/axe:
+weapons/mace:
   Type: Weapon
   SkillTypes:
-    - Melee Weapons
+    - Melee Combat
   CompetencyTypes:
     - Axes
