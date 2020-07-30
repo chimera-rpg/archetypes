@@ -2,5 +2,5 @@ weapons/axe:
   Type: Weapon
   Skills:
     - Melee Weapons
-  Competencies:
+  CompetencyTypes:
     - Axes
