@@ -1,0 +1,10 @@
+skills/hand-to-hand:
+  Type: Skill
+  Name: Hand-to-Hand
+  SkillTypes:
+    - Hand-to-Hand
+  CompetencyTypes:
+    - Pugilism
+    - Push Daggers
+  Description: |
+    The noble art of punching someone's teeth in. Now with extra daggers!
