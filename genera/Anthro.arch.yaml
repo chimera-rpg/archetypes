@@ -9,3 +9,6 @@ genera/Anthro:
   Matter:
     - Solid
     - Physical
+  Blocking:
+    - Physical
+    - Solid
