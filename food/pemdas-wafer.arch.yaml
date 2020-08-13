@@ -1,0 +1,5 @@
+food/pemdas-wafer:
+  Archs:
+    - food
+  Name: pemdas wafer
+  Value: 20+2d6
