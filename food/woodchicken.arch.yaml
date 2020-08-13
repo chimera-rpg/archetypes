@@ -1,0 +1,5 @@
+flora/woodchicken:
+  Archs:
+    - food
+  Name: chicken of the woods
+  Value: 10+1d6
