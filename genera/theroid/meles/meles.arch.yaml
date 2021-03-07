@@ -1,0 +1,12 @@
+genera/theroid/meles:
+  Archs:
+    - genera/theroid
+  Anim: genera/theroid/meles
+  Face: south
+  Name: Meles
+  Type: PC
+  Size: medium
+  Height: 5
+  Width: 2
+  Depth: 1
+  Blocks: true
