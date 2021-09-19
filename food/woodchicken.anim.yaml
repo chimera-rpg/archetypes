@@ -1,0 +1,6 @@
+food/woodchicken:
+  Faces:
+    woodchicken:
+      - Image: food/woodchicken.png
+    wallchicken:
+      - Image: food/woodchicken.png

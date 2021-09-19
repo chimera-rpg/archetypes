@@ -1,5 +1,16 @@
 food/woodchicken:
   Archs:
     - food
+  Anim: food/woodchicken
   Name: chicken of the woods
   Value: 10+1d6
+  Worth: 1+1d2
+food/wallchicken:
+  Archs:
+    - food/woodchicken
+  Face: wallchicken
+  Name: chicken of the walls
+  Description: What's this doing here...?
+  Value: 20+1d6
+  Worth: 2+1d4
+  # Wallchicken must grant a temp bonus to physical prowess or spirit sense, depending on if a manufactured wall or a natural wall.
