@@ -1,0 +1,9 @@
+ground/sandstone/block:
+  Arch: block
+  Name: sandstone
+  Anim: ground/sandstone
+  Description: An less fine and hardier amalgamation of Chimera's sun-baked substances.
+ground/sandstone/tile:
+  Archs:
+    - tile
+    - ground/sandstone/block

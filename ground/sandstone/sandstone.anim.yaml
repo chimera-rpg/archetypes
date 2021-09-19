@@ -1,0 +1,6 @@
+ground/sandstone:
+  Faces:
+    block:
+      - Image: ground/sandstone/block.png
+    tile:
+      - Image: ground/sandstone/tile.png
