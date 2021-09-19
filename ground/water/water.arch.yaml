@@ -1,0 +1,6 @@
+ground/water/tile:
+  Archs:
+    - tile
+  Name: water
+  Anim: ground/water
+  Description: A strange transparent liquid.

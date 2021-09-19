@@ -1,0 +1,4 @@
+ground/water:
+  Faces:
+    tile:
+      - Image: ground/water/tile.png
