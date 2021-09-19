@@ -1,6 +1,9 @@
+ground/plank/block:
+  Arch: block
+  Name: planks
+  Anim: ground/plank
+  Description: It's better than bad, it's good -- it's made of wood!
 ground/plank/tile:
   Archs:
     - tile
-  Name: planks
-  Anim: ground/plank
-  Description: The flooring, not the fad.
+    - ground/plank/block

@@ -1,4 +1,6 @@
 ground/plank:
   Faces:
+    block:
+      - Image: ground/plank/block.png
     tile:
       - Image: ground/plank/tile.png
