@@ -1,0 +1,6 @@
+ground/sand:
+  Faces:
+    block:
+      - Image: ground/sand/block.png
+    tile:
+      - Image: ground/sand/tile.png

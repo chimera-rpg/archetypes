@@ -1,0 +1,9 @@
+ground/sand/block:
+  Arch: block
+  Name: sand
+  Anim: ground/sand
+  Description: An fine amalgamation of Chimera's sun-baked substances.
+ground/sand/tile:
+  Archs:
+    - tile
+    - ground/sand/block
