@@ -1,0 +1,4 @@
+flora/shrub:
+  Faces:
+    regular:
+      - Image: flora/shrub.png

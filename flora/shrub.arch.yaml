@@ -1,0 +1,7 @@
+flora/shrub:
+  Arch: block
+  Name: shrub
+  Anim: flora/shrub
+  Face: regular
+  Description: Something larger than grass, but smaller than a tree.
+  Blocking: []
