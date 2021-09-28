@@ -1,0 +1,25 @@
+food/eggs/generic:
+  Archs:
+    - food
+  Anim: food/eggs
+  Face: generic
+  Name: egg
+  Description: A generic McEgg.
+  Value: 1+1d6
+food/eggs/eg:
+  Archs:
+    - food
+  Anim: food/eggs
+  Face: eg
+  Name: eg
+  Description: A fairly large small egg.
+  Value: 1+1d3
+"food/eggs/golden eg":
+  Archs:
+    - food
+  Anim: food/eggs
+  Face: golden eg
+  Name: golden eg
+  Description: A fairly large small golden egg.
+  Value: 1+1d3
+  Worth: 10d6
