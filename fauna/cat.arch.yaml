@@ -5,3 +5,7 @@ fauna/cat:
   Size: tiny
   Blocking:
     - Physical
+fauna/kitten:
+  Arch: fauna/cat
+  Name: kitten
+  Anim: fauna/kitten

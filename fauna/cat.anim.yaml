@@ -2,4 +2,10 @@ fauna/cat:
   Faces:
     default:
       - Image: fauna/cat.png
+        Y: -5
+        X: -2
+fauna/kitten:
+  Faces:
+    default:
+      - Image: fauna/kitten.png
         Y: -2
