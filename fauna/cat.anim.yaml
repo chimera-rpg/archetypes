@@ -1,0 +1,5 @@
+fauna/cat:
+  Faces:
+    default:
+      - Image: fauna/cat.png
+        Y: -2

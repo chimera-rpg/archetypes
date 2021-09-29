@@ -1,0 +1,7 @@
+fauna/cat:
+  Name: cat
+  Anim: fauna/cat
+  Face: default
+  Size: tiny
+  Blocking:
+    - Physical
