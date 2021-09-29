@@ -1,0 +1,11 @@
+fauna/bird:
+  Name: bird
+  Anim: fauna/bird
+  Face: default
+  Size: tiny
+  Blocking:
+    - Physical
+fauna/birds/gold-breast:
+  Arch: fauna/bird
+  Name: gold-breasted bird
+  Anim: fauna/birds/gold-breast

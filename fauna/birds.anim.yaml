@@ -1,0 +1,10 @@
+fauna/bird:
+  Faces:
+    default:
+      - Image: fauna/bird.png
+        Y: -1
+fauna/birds/gold-breast:
+  Faces:
+    default:
+      - Image: fauna/birds/gold-breast.png
+        Y: -1
