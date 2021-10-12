@@ -1,0 +1,4 @@
+weapons/melee:
+  Type: Weapon
+  SkillTypes:
+    - Melee Combat

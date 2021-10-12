@@ -7,3 +7,5 @@ Adjustments:
     Block:
       #        X: -1
         Y: -4
+    Weapon:
+      Y: -2

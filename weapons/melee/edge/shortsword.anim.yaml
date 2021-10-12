@@ -1,0 +1,4 @@
+weapons/melee/edge/shortsword:
+  Faces:
+    average:
+      - Image: weapons/melee/edge/shortsword.png

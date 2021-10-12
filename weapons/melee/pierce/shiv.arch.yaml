@@ -1,0 +1,10 @@
+weapons/melee/pierce/shiv:
+  Arch: weapons/melee
+  Anim: weapons/melee/pierce/shiv
+  Face: average
+  AttackTypes:
+    Physical: 100
+  CompetencyTypes:
+    - Daggers
+  Damage: 1d2
+  RecoveryTime: 100

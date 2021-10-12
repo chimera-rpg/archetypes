@@ -1,0 +1,4 @@
+weapons/melee/pierce/shiv:
+  Faces:
+    average:
+      - Image: weapons/melee/pierce/shiv.png

@@ -1,0 +1,10 @@
+weapons/melee/pierce/dirk:
+  Arch: weapons/melee
+  Anim: weapons/melee/pierce/dirk
+  Face: average
+  AttackTypes:
+    Physical: 100
+  CompetencyTypes:
+    - Daggers
+  Damage: 1d4
+  RecoveryTime: 150

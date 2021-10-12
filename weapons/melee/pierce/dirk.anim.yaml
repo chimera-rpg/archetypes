@@ -1,0 +1,4 @@
+weapons/melee/pierce/dirk:
+  Faces:
+    average:
+      - Image: weapons/melee/pierce/dirk.png

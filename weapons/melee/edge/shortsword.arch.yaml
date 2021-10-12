@@ -1,0 +1,10 @@
+weapons/melee/edge/shortsword:
+  Arch: weapons/melee
+  Anim: weapons/melee/edge/shortsword
+  Face: average
+  AttackTypes:
+    Physical: 100
+  CompetencyTypes:
+    - Swords
+  Damage: 1d6
+  RecoveryTime: 200
