@@ -5,5 +5,11 @@ decor/table:
   Name: table
   PluralName: tables
   Width: 2
-  Depth: 2
+  Depth: 1
   Height: 2
+  Matter:
+    - Solid
+    - Physical
+  Blocking:
+    - Physical
+    - Solid
