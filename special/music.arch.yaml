@@ -1,0 +1,9 @@
+special/music:
+  Type: Audio
+  Anim: special/music
+  Face: g-clef
+  Count: -1
+  Value: 1.0
+  Width: 1
+  Height: 4
+  Depth: 1

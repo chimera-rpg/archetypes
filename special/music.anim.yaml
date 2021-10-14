@@ -1,0 +1,4 @@
+special/music:
+  Faces:
+    g-clef:
+      - Image: special/g-clef.png
