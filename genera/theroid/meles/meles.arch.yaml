@@ -9,4 +9,13 @@ genera/theroid/meles:
   Height: 5
   Width: 2
   Depth: 1
-  Blocks: true
+  Attributes:
+    Physical:
+      Might: 2
+      Prowess: 1
+      Focus: 0
+      Sense: 1
+      Haste: 0
+      Reaction: 0
+    Arcane:
+    Spirit:
