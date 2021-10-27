@@ -1,0 +1,30 @@
+ground/glass/block:
+  Archs:
+    - block
+  Name: glass
+  Anim: ground/glass
+  Description: It seems to be transparent.
+ground/glass/pane-vertical:
+  Archs:
+    - ground/glass/block
+  Face: pane-vertical
+ground/glass/pane-horizontal:
+  Archs:
+    - ground/glass/block
+  Face: pane-horizontal
+ground/glass/pane-tl:
+  Archs:
+    - ground/glass/block
+  Face: pane-tl
+ground/glass/pane-tr:
+  Archs:
+    - ground/glass/block
+  Face: pane-tr
+ground/glass/pane-bl:
+  Archs:
+    - ground/glass/block
+  Face: pane-bl
+ground/glass/pane-br:
+  Archs:
+    - ground/glass/block
+  Face: pane-br

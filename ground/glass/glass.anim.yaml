@@ -1,0 +1,16 @@
+ground/glass:
+  Faces:
+    block:
+      - Image: ground/glass/block.png
+    pane-vertical:
+      - Image: ground/glass/pane-vertical.png
+    pane-horizontal:
+      - Image: ground/glass/pane-horizontal.png
+    pane-tl:
+      - Image: ground/glass/pane-tl.png
+    pane-tr:
+      - Image: ground/glass/pane-tr.png
+    pane-bl:
+      - Image: ground/glass/pane-bl.png
+    pane-br:
+      - Image: ground/glass/pane-br.png
