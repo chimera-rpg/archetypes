@@ -1,0 +1,10 @@
+fauna/aquatic:
+  Name: aquatic life
+  Matter:
+    - Physical
+    - Solid
+  Blocking:
+    - Physical
+    - Solid
+  Passing:
+    - Liquid
