@@ -2,3 +2,9 @@ ground/water:
   Faces:
     tile:
       - Image: ground/water/tile.png
+    tile-transparent:
+      - Image: ground/water/tile-transparent.png
+    block:
+      - Image: ground/water/block.png
+    block-transparent:
+      - Image: ground/water/block-transparent.png

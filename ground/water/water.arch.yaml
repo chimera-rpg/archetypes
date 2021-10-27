@@ -4,3 +4,16 @@ ground/water/tile:
   Name: water
   Anim: ground/water
   Description: A strange transparent liquid.
+ground/water/tile-transparent:
+  Archs:
+    - ground/water/tile
+  Face: tile-transparent
+ground/water/block:
+  Archs:
+    - ground/water/tile
+    - block
+  Face: block
+ground/water/block-transparent:
+  Archs:
+    - ground/water/block
+  Face: block-transparent
