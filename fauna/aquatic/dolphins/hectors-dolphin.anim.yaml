@@ -1,0 +1,4 @@
+fauna/aquatic/dolphins/hectors-dolphin:
+  Faces:
+    default:
+      - Image: fauna/aquatic/dolphins/hectors-dolphin.png

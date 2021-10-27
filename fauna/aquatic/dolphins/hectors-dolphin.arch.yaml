@@ -1,0 +1,9 @@
+fauna/aquatic/dolphins/hectors-dolphin:
+  Name: hector's dolphin
+  Archs:
+    - fauna/aquatic
+  Anim: fauna/aquatic/dolphins/hectors-dolphin
+  Face: default
+  Width: 3
+  Height: 2
+  Depth: 1
