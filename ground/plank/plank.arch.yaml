@@ -1,5 +1,7 @@
 ground/plank/block:
-  Arch: block
+  Archs: 
+    - block
+    - opaque
   Name: planks
   Anim: ground/plank
   Description: It's better than bad, it's good -- it's made of wood!

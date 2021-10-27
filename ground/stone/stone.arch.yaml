@@ -1,6 +1,7 @@
 ground/stone/block:
   Archs:
     - block
+    - opaque
   Name: stone
   Anim: ground/stone
   Description: Some rigid form of stratum.
