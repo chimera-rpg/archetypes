@@ -1,5 +1,7 @@
 ground/dirt/block:
-  Arch: block
+  Archs: 
+    - block
+    - opaque
   Name: dirt
   Anim: ground/dirt
   Description: An amalgamation of Chimera's various substances.
