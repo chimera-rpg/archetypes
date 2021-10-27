@@ -2,3 +2,9 @@ genera/theroid:
   Archs:
     - genera
   Size: medium
+  Matter:
+    - Solid
+    - Physical
+  Blocking:
+    - Physical
+    - Solid
