@@ -1,0 +1,6 @@
+items/beach-ball:
+  Anim: items/beach-ball
+  Face: default
+  Name: beach ball
+  Value: 1000
+  Weight: 4

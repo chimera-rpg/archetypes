@@ -1,0 +1,4 @@
+items/beach-ball:
+  Faces:
+    default:
+      - Image: items/beach-ball.png
