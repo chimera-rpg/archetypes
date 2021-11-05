@@ -1,0 +1,13 @@
+weapons/impact/haltere:
+  Archs:
+    - weapons/mace
+  Name: haltere
+  PluralName: halteres
+  Damage: 1d6
+  AttackTypes:
+    Physical: 80
+    Corrosive: 20
+    Spirit: 10
+    Impact: 80
+    Pierce: 20
+# TODO: Give a minor bonus to flyingo
