@@ -9,3 +9,7 @@ Adjustments:
         Y: -4
     Weapon:
       Y: -2
+    NPC:
+      Y: -2
+    PC:
+      Y: -2
