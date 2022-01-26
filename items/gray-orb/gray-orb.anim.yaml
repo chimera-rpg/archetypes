@@ -1,0 +1,15 @@
+items/gray-orb:
+  Faces:
+    default:
+      - Image: items/gray-orb/gray-orb1.png
+        Time: 200
+      - Image: items/gray-orb/gray-orb2.png
+        Time: 200
+      - Image: items/gray-orb/gray-orb3.png
+        Time: 200
+      - Image: items/gray-orb/gray-orb4.png
+        Time: 200
+      - Image: items/gray-orb/gray-orb5.png
+        Time: 200
+      - Image: items/gray-orb/gray-orb6.png
+        Time: 200
