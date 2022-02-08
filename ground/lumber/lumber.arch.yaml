@@ -1,0 +1,23 @@
+ground/lumber/block:
+  Archs: 
+    - block
+    - opaque
+  Name: lumber
+  Anim: ground/lumber
+  Description: It's better than bad, it's good -- it's made of wood!
+ground/lumber/tile:
+  Archs:
+    - tile
+    - ground/lumber/block
+ground/lumber/vbeam:
+  Archs:
+    - ground/lumber/block
+  Face: vbeam
+ground/lumber/hbeam:
+  Archs:
+    - ground/lumber/block
+  Face: hbeam
+ground/lumber/planks:
+  Archs:
+    - ground/lumber/block
+  Face: planks

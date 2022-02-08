@@ -1,0 +1,12 @@
+ground/lumber:
+  Faces:
+    block:
+      - Image: ground/lumber/block.png
+    tile:
+      - Image: ground/lumber/tile.png
+    planks:
+      - Image: ground/lumber/planks.png
+    vbeam:
+      - Image: ground/lumber/vbeam.png
+    hbeam:
+      - Image: ground/lumber/hbeam.png
