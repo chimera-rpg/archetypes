@@ -3,7 +3,10 @@ ground/water/tile:
     - tile
   Name: water
   Anim: ground/water
-  Description: A strange transparent liquid.
+  Description: A strange non-opaque liquid.
+  Matter: 
+    - Physical
+    - Liquid
 ground/water/tile-transparent:
   Archs:
     - ground/water/tile
