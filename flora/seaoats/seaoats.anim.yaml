@@ -1,16 +1,32 @@
 flora/seaoats:
   RandomFrame: true
   Faces:
-    regular:
-      - Image: flora/seaoats/1.png
+    sprout:
+      - Image: flora/seaoats/sprout1.png
         Time: 500
         Y: -6
-      - Image: flora/seaoats/2.png
+      - Image: flora/seaoats/sprout2.png
         Time: 500
         Y: -6
-      - Image: flora/seaoats/3.png
+      - Image: flora/seaoats/sprout3.png
         Time: 500
         Y: -6
-      - Image: flora/seaoats/2.png
+      - Image: flora/seaoats/sprout2.png
         Time: 500
+        Y: -6
+    fruiting:
+      - Image: flora/seaoats/fruiting1.png
+        Time: 500
+        Y: -6
+      - Image: flora/seaoats/fruiting2.png
+        Time: 500
+        Y: -6
+      - Image: flora/seaoats/fruiting3.png
+        Time: 500
+        Y: -6
+      - Image: flora/seaoats/fruiting2.png
+        Time: 500
+        Y: -6
+    dead:
+      - Image: flora/seaoats/dead.png
         Y: -6

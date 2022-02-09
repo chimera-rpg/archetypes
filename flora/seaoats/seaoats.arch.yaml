@@ -1,7 +1,32 @@
-flora/seaoats:
+flora/seaoats/base:
   Type: Flora
-  Name: sea oats
   Anim: flora/seaoats
-  Face: regular
+  Name: sea oats
   Description: The oats of the sea.
   Blocking: []
+flora/seaoats/sprout:
+  Archs: 
+    - flora/seaoats/base
+  Name: sea oats sprout
+  Face: sprout
+  Next:
+    MinTime: 60
+    MaxTime: 120
+    Archetypes:
+      - Weight: 1.0
+        Archetype: 
+          Arch: flora/seaoats/fruiting
+      - Weight: 0.25
+        Archetype: 
+          Arch: flora/seaoats/dead
+flora/seaoats/fruiting:
+  Archs: 
+    - flora/seaoats/base
+  Anim: flora/seaoats
+  Face: fruiting
+flora/seaoats/dead:
+  Archs: 
+    - flora/seaoats/base
+  Anim: flora/seaoats
+  Face: dead
+
