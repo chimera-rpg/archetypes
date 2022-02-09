@@ -1,0 +1,16 @@
+flora/seaoats:
+  RandomFrame: true
+  Faces:
+    regular:
+      - Image: flora/seaoats/1.png
+        Time: 500
+        Y: -6
+      - Image: flora/seaoats/2.png
+        Time: 500
+        Y: -6
+      - Image: flora/seaoats/3.png
+        Time: 500
+        Y: -6
+      - Image: flora/seaoats/2.png
+        Time: 500
+        Y: -6

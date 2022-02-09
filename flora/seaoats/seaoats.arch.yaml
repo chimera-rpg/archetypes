@@ -1,0 +1,7 @@
+flora/seaoats:
+  Type: Block
+  Name: seaoats
+  Anim: flora/seaoats
+  Face: regular
+  Description: The oats of the sea.
+  Blocking: []
