@@ -1,6 +1,6 @@
 flora/seaoats:
-  Type: Block
-  Name: seaoats
+  Type: Flora
+  Name: sea oats
   Anim: flora/seaoats
   Face: regular
   Description: The oats of the sea.
