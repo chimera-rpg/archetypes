@@ -9,16 +9,21 @@ flora/seaoats/sprout:
     - flora/seaoats/base
   Name: sea oats sprout
   Face: sprout
-  Next:
-    MinTime: 60
-    MaxTime: 120
-    Archetypes:
-      - Weight: 1.0
-        Archetype: 
-          Arch: flora/seaoats/fruiting
-      - Weight: 0.25
-        Archetype: 
-          Arch: flora/seaoats/dead
+  Timers:
+    - Event: Advance
+      Time:
+        Min: 60
+        Max: 120
+#      Repeat: 0
+  Events:
+    Advance:
+      Replace:
+        - Chance: 1.0
+          Archetype: 
+            Arch: flora/seaoats/fruiting
+        - Chance: 0.25
+          Archetype: 
+            Arch: flora/seaoats/dead
 flora/seaoats/fruiting:
   Archs: 
     - flora/seaoats/base
