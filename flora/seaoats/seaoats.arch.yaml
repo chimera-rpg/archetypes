@@ -11,7 +11,7 @@ flora/seaoats/sprout:
   Face: sprout
   Timers:
     - Event: Advance
-      Time:
+      Wait:
         Min: 60
         Max: 120
 #      Repeat: 0
