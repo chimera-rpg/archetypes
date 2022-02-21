@@ -1,0 +1,4 @@
+exits/exit:
+  Faces:
+    default:
+      - Image: fauna/cat.png

@@ -1,0 +1,7 @@
+exits/exit:
+  Type: Exit
+  Anim: exits/exit
+  Face: default
+  Width: 1
+  Height: 1
+  Depth: 1
