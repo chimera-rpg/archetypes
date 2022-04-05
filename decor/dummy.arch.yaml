@@ -1,0 +1,16 @@
+decor/dummy:
+  Type: Generic
+  Anim: decor/dummy
+  Face: default
+  Name: dummy
+  PluralName: dummies
+  Width: 2
+  Depth: 1
+  Height: 5
+  Blocks: true
+  Matter:
+    - Solid
+    - Physical
+  Blocking:
+    - Physical
+    - Solid

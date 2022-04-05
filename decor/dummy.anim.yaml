@@ -1,0 +1,4 @@
+decor/dummy:
+  Faces:
+    default:
+      - Image: decor/dummy.png
