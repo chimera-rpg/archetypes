@@ -14,3 +14,9 @@ decor/dummy:
   Blocking:
     - Physical
     - Solid
+  Attackable: true
+  Events:
+    Attacked:
+      Script: |-
+        // Prevent the damage from actually hurting the dummy.
+        event.(*EventAttacked).Prevented = true
