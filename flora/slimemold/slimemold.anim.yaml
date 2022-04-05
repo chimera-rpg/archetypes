@@ -1,0 +1,17 @@
+flora/slimemold:
+  Faces:
+    zero:
+      - Image: flora/slimemold/zero.png
+        Y: 4
+    first:
+      - Image: flora/slimemold/first.png
+        Y: 4
+    second:
+      - Image: flora/slimemold/second.png
+        Y: 4
+    third:
+      - Image: flora/slimemold/third.png
+        Y: 4
+    dying:
+      - Image: flora/slimemold/dying.png
+        Y: 4

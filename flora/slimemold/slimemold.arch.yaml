@@ -1,0 +1,103 @@
+flora/slimemold/base:
+  Type: Flora
+  Anim: flora/slimemold
+  Name: slime mold
+  Description: A slimey mold.
+  Blocking: []
+  Matter:
+    - Physical
+flora/slimemold/zero:
+  Archs: 
+    - flora/slimemold/base
+  Face: zero
+  Timers:
+    - Event: Advance
+      Wait:
+        Min: 1
+        Max: 4
+  Events:
+    Advance:
+      Replace:
+        - Chance: 1.0
+          Archetype: 
+            Arch: flora/slimemold/first
+flora/slimemold/first:
+  Archs: 
+    - flora/slimemold/base
+  Face: first
+  Timers:
+    - Event: Advance
+      Wait:
+        Min: 1
+        Max: 4
+  Events:
+    Advance:
+      Replace:
+        - Chance: 1.0
+          Archetype: 
+            Arch: flora/slimemold/second
+flora/slimemold/second:
+  Archs: 
+    - flora/slimemold/base
+  Face: second
+  Timers:
+    - Event: Advance
+      Wait:
+        Min: 1
+        Max: 4
+  Events:
+    Advance:
+      Replace:
+        - Chance: 1.0
+          Archetype: 
+            Arch: flora/slimemold/third
+flora/slimemold/third:
+  Archs: 
+    - flora/slimemold/base
+  Face: third
+  Timers:
+    - Event: Advance
+      Wait:
+        Min: 1
+        Max: 4
+  Events:
+    Advance:
+      Replace:
+        - Chance: 1.0
+          Archetype: 
+            Arch: flora/slimemold/dying
+      Spawn: # Spawn 1-3 spores on final stage.
+        Items:
+          - Count:
+              Min: 1
+              Max: 3
+            Retry: 4
+            Archetype:
+              Arch: flora/slimemold/zero
+            Placement:
+              Overlap: false
+              Surface:
+                Blocking:
+                  - Physical
+                  - Solid
+              Air:
+                Blocking: []
+                Matter: []
+              Y:
+                Min: -1
+                Max: 1
+              X:
+                Min: -1
+                Max: 1
+              Z:
+                Min: -1
+                Max: 1
+flora/slimemold/dying:
+  Archs: 
+    - flora/slimemold/base
+  Face: dying
+  Timers:
+    - Event: Destroy
+      Wait:
+        Min: 1
+        Max: 2
