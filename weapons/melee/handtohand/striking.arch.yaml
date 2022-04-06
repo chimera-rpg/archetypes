@@ -1,0 +1,13 @@
+weapons/handtohand/striking:
+  Arch: weapons/handtohand
+  AttackTypes:
+    Physical:
+      Impact: 100
+  CompetencyTypes:
+    - Pugilism
+  RecoveryTime: 150
+  Damage:
+    Value: 1
+    AttributeBonus:
+      Physical:
+        Might: 2

@@ -1,0 +1,9 @@
+weapons/handtohand:
+  Type: Weapon
+  SkillTypes:
+    - Hand-to-Hand
+  Damage:
+    Value: 1
+    AttributeBonus:
+      Physical:
+        Might: 2
