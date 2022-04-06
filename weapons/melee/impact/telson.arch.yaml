@@ -3,10 +3,12 @@ weapons/impact/telson:
     - weapons/mace
   Name: telson
   PluralName: telsons
-  Damage: 4
+  Damage: 
+    Value: 4
   AttackTypes:
-    Physical: 80
-    Spirit: 20
-    Impact: 40
-    Pierce: 20
-    Edge: 40
+    Physical:
+      Impact: 40
+      Pierce: 20
+      Edge: 40
+    Spirit:
+      Harm: 20

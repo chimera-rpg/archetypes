@@ -2,9 +2,10 @@ weapons/impact/shishpar:
   Archs:
     - weapons/mace
   Name: shishpar
-  Damage: 3
+  Damage: 
+    Value: 3
   AttackTypes:
-    Physical: 100
-    Impact: 55
-    Edged: 35
-    Pierce: 10
+    Physical:
+      Impact: 55
+      Edged: 35
+      Pierce: 10

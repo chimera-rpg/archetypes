@@ -2,8 +2,9 @@ weapons/impact/knobbed-mace:
   Archs:
     - weapons/mace
   Name: knobbed mace
-  Damage: 3
+  Damage: 
+    Value: 3
   AttackTypes:
-    Physical: 100
-    Impact: 80
-    Pierce: 20
+    Physical: 
+      Impact: 80
+      Pierce: 20

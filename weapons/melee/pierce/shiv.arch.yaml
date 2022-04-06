@@ -3,8 +3,13 @@ weapons/melee/pierce/shiv:
   Anim: weapons/melee/pierce/shiv
   Face: average
   AttackTypes:
-    Physical: 100
+    Physical:
+      Pierce: 100
   CompetencyTypes:
     - Daggers
-  Damage: 2
+  Damage: 
+    Value: 2
+    AttributeBonus:
+      Physical:
+        Might: 2
   RecoveryTime: 100

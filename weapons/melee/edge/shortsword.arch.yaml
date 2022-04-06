@@ -3,11 +3,13 @@ weapons/melee/edge/shortsword:
   Anim: weapons/melee/edge/shortsword
   Face: average
   AttackTypes:
-    Physical: 100
+    Physical:
+      Edged: 100
   CompetencyTypes:
     - Swords
-  Damage: 3
-  DamageBonus:
-    Physical:
-      Might: 2
+  Damage:
+    Value: 3
+    AttributeBonus:
+      Physical:
+        Might: 2
   RecoveryTime: 200

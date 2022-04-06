@@ -3,8 +3,13 @@ weapons/melee/pierce/dirk:
   Anim: weapons/melee/pierce/dirk
   Face: average
   AttackTypes:
-    Physical: 100
+    Physical:
+      Pierce: 100
   CompetencyTypes:
     - Daggers
-  Damage: 2
+  Damage: 
+    Value: 2
+    AttributeBonus:
+      Physical:
+        Might: 2
   RecoveryTime: 150

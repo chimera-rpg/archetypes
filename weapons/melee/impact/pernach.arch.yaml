@@ -2,8 +2,9 @@ weapons/impact/pernach:
   Archs:
     - weapons/mace
   Name: pernach
-  Damage: 4
+  Damage: 
+    Value: 4
   AttackTypes:
-    Physical: 100
-    Impact: 75
-    Edged: 25
+    Physical:
+      Impact: 75
+      Edged: 25

@@ -3,11 +3,12 @@ weapons/impact/haltere:
     - weapons/mace
   Name: haltere
   PluralName: halteres
-  Damage: 3
+  Damage:
+    Value: 3
   AttackTypes:
-    Physical: 80
-    Corrosive: 20
-    Spirit: 10
-    Impact: 80
-    Pierce: 20
+    Physical:
+      Impact: 80
+      Pierce: 20
+    Spirit:
+      Corrosive: 20
 # TODO: Give a minor bonus to flyingo

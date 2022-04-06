@@ -1,6 +1,10 @@
 weapons/mace:
+  Arch: weapons/melee
   Type: Weapon
-  SkillTypes:
-    - Melee Combat
   CompetencyTypes:
     - Axes
+  Damage:
+    AttributeBonus:
+      Physical:
+        Might: 2
+
