@@ -6,5 +6,5 @@ weapons/melee/pierce/dirk:
     Physical: 100
   CompetencyTypes:
     - Daggers
-  Damage: 1d4
+  Damage: 2
   RecoveryTime: 150

@@ -3,7 +3,7 @@ weapons/impact/telson:
     - weapons/mace
   Name: telson
   PluralName: telsons
-  Damage: 1d8
+  Damage: 4
   AttackTypes:
     Physical: 80
     Spirit: 20

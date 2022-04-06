@@ -3,7 +3,7 @@ weapons/impact/haltere:
     - weapons/mace
   Name: haltere
   PluralName: halteres
-  Damage: 1d6
+  Damage: 3
   AttackTypes:
     Physical: 80
     Corrosive: 20

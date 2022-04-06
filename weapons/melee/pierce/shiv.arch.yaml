@@ -6,5 +6,5 @@ weapons/melee/pierce/shiv:
     Physical: 100
   CompetencyTypes:
     - Daggers
-  Damage: 1d2
+  Damage: 2
   RecoveryTime: 100

@@ -6,5 +6,8 @@ weapons/melee/edge/shortsword:
     Physical: 100
   CompetencyTypes:
     - Swords
-  Damage: 1d6
+  Damage: 3
+  DamageBonus:
+    Physical:
+      Might: 2
   RecoveryTime: 200
