@@ -1,3 +1,9 @@
 factions/sun-cursed:
   Type: Faction
   Name: Sun-cursed
+  Factions:
+    - Sun-cursed
+  Attitudes:
+    Factions:
+      Animus: Hostile
+      "Common-folk": Unfriendly

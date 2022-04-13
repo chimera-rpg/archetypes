@@ -6,3 +6,4 @@ factions/common-folk:
   Attitudes:
     Factions:
       Animus: Hostile
+      "Sun-cursed": Neutral

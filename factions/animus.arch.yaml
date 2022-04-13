@@ -1,3 +1,6 @@
 factions/animus:
   Type: Faction
   Name: Animus
+  Attitudes:
+    Factions:
+      "!Animus": Hostile
