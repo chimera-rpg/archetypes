@@ -1,5 +1,6 @@
 genera/theroid/meles:
   Archs:
+    - factions/common-folk
     - genera/theroid
   Anim: genera/theroid/meles
   Face: south
