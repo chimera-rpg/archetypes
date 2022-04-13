@@ -1,0 +1,8 @@
+factions/common-folk:
+  Type: Faction
+  Name: Common-folk
+  Factions:
+    - Common-folk
+  Attitudes:
+    Factions:
+      Animus: Hostile
