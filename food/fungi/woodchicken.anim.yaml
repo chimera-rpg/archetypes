@@ -1,0 +1,6 @@
+food/fungi/woodchicken:
+  Faces:
+    woodchicken:
+      - Image: food/fungi/woodchicken.png
+    wallchicken:
+      - Image: food/fungi/woodchicken.png

@@ -1,13 +1,14 @@
-food/woodchicken:
+food/fungi/woodchicken:
   Archs:
     - food
-  Anim: food/woodchicken
+  Anim: food/fungi/woodchicken
+  Face: woodchicken
   Name: chicken of the woods
   Value: 10+1d6
   Worth: 1+1d2
-food/wallchicken:
+food/fungi/wallchicken:
   Archs:
-    - food/woodchicken
+    - food/fungi/woodchicken
   Face: wallchicken
   Name: chicken of the walls
   Description: What's this doing here...?
