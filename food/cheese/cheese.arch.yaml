@@ -1,0 +1,9 @@
+food/cheese/wedge:
+  Archs:
+    - food
+  Anim: food/cheese
+  Face: wedge
+  Name: cheese wedge
+  Description: A holey wedge of curdled milk.
+  Value: 2+1d6
+  Worth: 1d4

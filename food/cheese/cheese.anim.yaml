@@ -1,0 +1,4 @@
+food/cheese:
+  Faces:
+    wedge:
+      - Image: food/cheese/wedge.png
