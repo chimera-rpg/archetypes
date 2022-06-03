@@ -1,6 +1,6 @@
-weapons/impact/pernach:
+weapons/melee/impact/pernach:
   Archs:
-    - weapons/mace
+    - weapons/melee/impact/mace
   Name: pernach
   Damage: 
     Value: 4

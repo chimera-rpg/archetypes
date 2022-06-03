@@ -1,6 +1,6 @@
-weapons/impact/knobbed-mace:
+weapons/melee/impact/knobbed-mace:
   Archs:
-    - weapons/mace
+    - weapons/melee/impact/mace
   Name: knobbed mace
   Damage: 
     Value: 3

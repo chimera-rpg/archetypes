@@ -1,0 +1,4 @@
+weapons/melee/impact/haltere:
+  Faces:
+    average:
+      - Image: weapons/melee/impact/haltere.png

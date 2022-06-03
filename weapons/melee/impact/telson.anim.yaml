@@ -1,0 +1,4 @@
+weapons/melee/impact/telson:
+  Faces:
+    average:
+      - Image: weapons/melee/impact/telson.png

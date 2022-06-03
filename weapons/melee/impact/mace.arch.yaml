@@ -1,4 +1,4 @@
-weapons/mace:
+weapons/melee/impact/mace:
   Arch: weapons/melee
   Type: Weapon
   CompetencyTypes:

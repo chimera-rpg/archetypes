@@ -1,6 +1,6 @@
-weapons/impact/shishpar:
+weapons/melee/impact/shishpar:
   Archs:
-    - weapons/mace
+    - weapons/melee/impact/mace
   Name: shishpar
   Damage: 
     Value: 3

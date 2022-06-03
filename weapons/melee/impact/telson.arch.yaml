@@ -1,6 +1,8 @@
-weapons/impact/telson:
+weapons/melee/impact/telson:
   Archs:
-    - weapons/mace
+    - weapons/melee/impact/mace
+  Anim: weapons/melee/impact/telson
+  Face: average
   Name: telson
   PluralName: telsons
   Damage: 
