@@ -1,0 +1,8 @@
+food/egg:
+  Faces:
+    generic:
+      - Image: food/eggs/egg.png
+    eg:
+      - Image: food/eggs/eg.png
+    "golden eg":
+      - Image: food/eggs/golden-eg.png

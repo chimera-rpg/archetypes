@@ -1,15 +1,15 @@
-food/eggs/generic:
+food/eggs/egg:
   Archs:
     - food
-  Anim: food/eggs
-  Face: generic
+  Anim: food/egg
   Name: egg
+  Face: generic
   Description: A generic McEgg.
   Value: 1+1d6
 food/eggs/eg:
   Archs:
     - food
-  Anim: food/eggs
+  Anim: food/egg
   Face: eg
   Name: eg
   Description: A fairly large small egg.
@@ -17,7 +17,7 @@ food/eggs/eg:
 "food/eggs/golden eg":
   Archs:
     - food
-  Anim: food/eggs
+  Anim: food/egg
   Face: golden eg
   Name: golden eg
   Description: A fairly large small golden egg.
