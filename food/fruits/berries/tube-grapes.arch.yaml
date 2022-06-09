@@ -1,0 +1,9 @@
+food/fruits/berries/tube-grapes:
+  Archs:
+    - food
+  Anim: food/fruits/berries/tube-grapes
+  Face: default
+  Name: tube grapes
+  Description: A tubular fleshy fruit.
+  Value: 1+1d4
+  Worth: 1d2

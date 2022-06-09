@@ -1,0 +1,4 @@
+food/fruits/berries/tube-grapes:
+  Faces:
+    default:
+      - Image: food/fruits/berries/tube-grapes.png
