@@ -1,6 +1,6 @@
 genera/golem:
-  Archs:
-    - factions/animus
+  Factions:
+    - Animus
   Face: south
   Name: Golem
   Type: NPC
