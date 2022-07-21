@@ -1,6 +1,8 @@
 genera/golem:
   Factions:
     - Animus
+    - Golem
+    - Erf
   Face: south
   Name: Golem
   Type: NPC
