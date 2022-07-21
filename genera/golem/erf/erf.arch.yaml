@@ -10,6 +10,7 @@ genera/golem/erf/tiny:
     - genera/golem/erf
   Anim: genera/golem/erf/tiny
   Size: tiny
+  Height: 2
 genera/golem/erf/small:
   Archs:
     - genera/golem/erf
