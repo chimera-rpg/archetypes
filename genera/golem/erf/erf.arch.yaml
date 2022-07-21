@@ -1,6 +1,8 @@
 genera/golem/erf:
   Archs:
     - genera/golem
+  Factions:
+    - Erf
   Name: erf golem
   Face: south
 genera/golem/erf/tiny:
