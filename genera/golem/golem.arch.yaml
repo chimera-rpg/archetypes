@@ -10,6 +10,14 @@ genera/golem:
   Height: 1
   Width: 1
   Depth: 1
+  Blocks: true
+  Matter:
+    - Solid
+    - Physical
+  Blocking:
+    - Physical
+    - Solid
+  Attackable: true
   Attributes:
     Physical:
       Might: 1
