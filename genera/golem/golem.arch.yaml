@@ -1,0 +1,25 @@
+genera/golem:
+  Archs:
+    - factions/animus
+  Face: south
+  Name: Golem
+  Type: NPC
+  Size: small
+  Height: 1
+  Width: 1
+  Depth: 1
+  Attributes:
+    Physical:
+      Might: 1
+      Prowess: 1
+      Focus: 1
+      Sense: 1
+      Haste: 1
+      Reaction: 1
+    Arcane:
+      Might: 1
+      Prowess: 1
+      Focus: 1
+      Sense: 1
+      Haste: 1
+      Reaction: 1

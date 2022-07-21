@@ -1,0 +1,8 @@
+genera/golem/erf/tiny:
+  Faces:
+    south:
+      - Image: genera/golem/erf/tiny/south.png
+genera/golem/erf/small:
+  Faces:
+    south:
+      - Image: genera/golem/erf/small/south.png

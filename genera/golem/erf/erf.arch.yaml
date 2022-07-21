@@ -1,0 +1,23 @@
+genera/golem/erf:
+  Archs:
+    - genera/golem
+  Name: erf golem
+  Face: south
+genera/golem/erf/tiny:
+  Archs:
+    - genera/golem/erf
+  Anim: genera/golem/erf/tiny
+  Size: tiny
+genera/golem/erf/small:
+  Archs:
+    - genera/golem/erf
+  Anim: genera/golem/erf/small
+  Size: small
+  Height: 2
+  Attributes:
+    Physical:
+      Might: 2
+      Prowess: 2
+    Arcane:
+      Might: 2
+      Prowess: 2
