@@ -5,3 +5,11 @@ flora/shrub:
   Face: regular
   Description: Something larger than grass, but smaller than a tree.
   Blocking: []
+flora/shrub-2:
+  Archs:
+    - flora/shrub
+  Face: regular-2
+flora/shrub-3:
+  Archs:
+    - flora/shrub
+  Face: regular-3

@@ -2,3 +2,7 @@ flora/shrub:
   Faces:
     regular:
       - Image: flora/shrub.png
+    regular-2:
+      - Image: flora/shrub-2.png
+    regular-3:
+      - Image: flora/shrub-3.png
