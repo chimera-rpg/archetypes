@@ -1,0 +1,12 @@
+ground/gravel:
+  Faces:
+    tile:
+      - Image: ground/gravel/tile.png
+    tile-raked_ns:
+      - Image: ground/gravel/tile-raked_ns.png
+    tile-raked_we:
+      - Image: ground/gravel/tile-raked_we.png
+    tile-raked_nesw:
+      - Image: ground/gravel/tile-raked_nesw.png
+    tile-raked_nwse:
+      - Image: ground/gravel/tile-raked_nwse.png

@@ -1,0 +1,23 @@
+ground/gravel/tile:
+  Archs:
+    - tile
+    - opaque
+  Name: gravel
+  Anim: ground/gravel
+  Description: An less-fine amalgamation of a portion of Chimera's sun-baked substances.
+ground/gravel/tile-raked_ns:
+  Archs:
+    - ground/gravel/tile
+  Face: tile-raked_ns
+ground/gravel/tile-raked_we:
+  Archs:
+    - ground/gravel/tile
+  Face: tile-raked_we
+ground/gravel/tile-raked_nesw:
+  Archs:
+    - ground/gravel/tile
+  Face: tile-raked_nesw
+ground/gravel/tile-raked_nwse:
+  Archs:
+    - ground/gravel/tile
+  Face: tile-raked_nwse
