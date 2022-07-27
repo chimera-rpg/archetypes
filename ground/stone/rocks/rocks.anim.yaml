@@ -1,0 +1,4 @@
+ground/stone/rock:
+  Faces:
+    rock:
+      - Image: ground/stone/rocks/rock.png

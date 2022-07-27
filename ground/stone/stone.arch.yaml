@@ -4,6 +4,7 @@ ground/stone/block:
     - opaque
   Name: stone
   Anim: ground/stone
+  Face: block
   Description: Some rigid form of stratum.
 ground/stone/tile:
   Archs:

@@ -1,0 +1,6 @@
+ground/stone/cobble:
+  Faces:
+    block:
+      - Image: ground/stone/cobble/block.png
+    tile:
+      - Image: ground/stone/cobble/tile.png

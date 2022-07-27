@@ -1,0 +1,5 @@
+ground/stone/rock:
+  Archs:
+    - ground/stone/block
+  Anim: ground/stone/rock
+  Face: rock

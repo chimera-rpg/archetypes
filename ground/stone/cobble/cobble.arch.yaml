@@ -1,0 +1,12 @@
+ground/stone/cobble/block:
+  Archs:
+    - block
+    - opaque
+  Name: cobblestone
+  Anim: ground/stone/cobble
+  Face: block
+  Description: Some lumpy and rigid form of stratum.
+ground/stone/cobble/tile:
+  Archs:
+    - tile
+    - ground/stone/cobble/block
