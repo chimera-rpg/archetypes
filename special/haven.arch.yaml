@@ -1,0 +1,6 @@
+special/haven:
+  Type: Special
+  Anim: special/haven
+  Face: haven
+  Specials:
+    Haven: true
