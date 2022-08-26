@@ -1,6 +1,7 @@
 weapons/melee/edge/shortsword:
   Arch: weapons/melee
   Anim: weapons/melee/edge/shortsword
+  Name: shortsword
   Face: average
   AttackTypes:
     Physical:
