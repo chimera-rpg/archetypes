@@ -10,6 +10,7 @@ genera/theroid/meles:
   Height: 5
   Width: 2
   Depth: 1
+  Reach: 2
   Attributes:
     Physical:
       Might: 2
