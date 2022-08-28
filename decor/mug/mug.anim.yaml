@@ -1,0 +1,20 @@
+decor/mug/metal:
+  Faces:
+    medium:
+      - Image: decor/mug/metal/medium.png
+        Y: -1
+        X: 2
+    large:
+      - Image: decor/mug/metal/large.png
+        Y: -4
+        X: 1
+decor/mug/glass:
+  Faces:
+    medium:
+      - Image: decor/mug/glass/medium.png
+        Y: -1
+        X: 2
+    large:
+      - Image: decor/mug/glass/large.png
+        Y: -4
+        X: 1

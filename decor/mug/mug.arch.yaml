@@ -1,0 +1,36 @@
+decor/mug:
+  Type: Generic
+  Anim: decor/mug
+  Name: mug
+  PluralName: mugs
+  Width: 1
+  Depth: 1
+  Height: 1
+  Matter:
+    - Solid
+    - Physical
+decor/mug/metal:
+  Archs:
+    - decor/mug
+  Anim: decor/mug/metal
+decor/mug/metal/medium:
+  Archs:
+    - decor/mug/metal
+  Face: medium
+decor/mug/metal/large:
+  Archs:
+    - decor/mug/metal
+  Anim: decor/mug/metal
+  Face: large
+decor/mug/glass:
+  Archs:
+    - decor/mug
+  Anim: decor/mug/glass
+decor/mug/glass/medium:
+  Archs:
+    - decor/mug/glass
+  Face: medium
+decor/mug/glass/large:
+  Archs:
+    - decor/mug/glass
+  Face: large
