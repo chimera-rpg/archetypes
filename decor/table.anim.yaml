@@ -2,3 +2,13 @@ decor/table:
   Faces:
     default:
       - Image: decor/table.png
+decor/table/wood:
+  Faces:
+    2x1x1:
+      - Image: decor/table/wood/1x1x1.png
+    2x2x1:
+      - Image: decor/table/wood/2x2x1.png
+    2x1x2:
+      - Image: decor/table/wood/2x1x2.png
+    2x2x2:
+      - Image: decor/table/wood/2x2x2.png
