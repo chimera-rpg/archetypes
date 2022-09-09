@@ -1,0 +1,6 @@
+decor/sconce/metal:
+  Faces:
+    lit:
+      - Image: decor/sconce/metal/lit.png
+    unlit:
+      - Image: decor/sconce/metal/unlit.png

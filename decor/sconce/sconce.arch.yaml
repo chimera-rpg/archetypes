@@ -1,0 +1,21 @@
+decor/sconce:
+  Type: Generic
+  Face: lit
+  Name: sconce
+  PluralName: sconces
+  Width: 1
+  Depth: 1
+  Height: 1
+  Matter:
+    - Solid
+    - Physical
+decor/sconce/metal:
+  Archs:
+    - decor/sconce
+  Anim: decor/sconce/metal
+  Light:
+    Red: 250
+    Green: 225
+    Blue: 175
+    Distance: 20
+    Falloff: 0.9
