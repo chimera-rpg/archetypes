@@ -1,5 +1,7 @@
 weapons/melee/impact/mace:
-  Arch: weapons/melee
+  Archs:
+    - weapons/melee
+  Name: mace
   Type: Weapon
   CompetencyTypes:
     - Axes
