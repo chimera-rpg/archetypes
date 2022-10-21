@@ -1,3 +1,5 @@
 food:
   Type: Food
   Name: food
+  TypeHints:
+    - food
