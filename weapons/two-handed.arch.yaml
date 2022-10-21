@@ -1,0 +1,5 @@
+weapons/two-handed:
+  Slots:
+    Uses:
+      - hand
+      - hand
