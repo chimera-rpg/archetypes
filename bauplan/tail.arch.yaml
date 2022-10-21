@@ -1,0 +1,4 @@
+bauplan/tail:
+  Slots:
+    Has:
+      - tail
