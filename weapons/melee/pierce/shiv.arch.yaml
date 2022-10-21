@@ -1,5 +1,7 @@
 weapons/melee/pierce/shiv:
-  Arch: weapons/melee
+  Archs:
+    - weapons/one-handed
+    - weapons/melee
   Anim: weapons/melee/pierce/shiv
   Face: average
   AttackTypes:

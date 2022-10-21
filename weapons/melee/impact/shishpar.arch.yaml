@@ -1,5 +1,6 @@
 weapons/melee/impact/shishpar:
   Archs:
+    - weapons/one-handed
     - weapons/melee/impact/mace
   Name: shishpar
   Damage: 

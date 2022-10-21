@@ -1,5 +1,6 @@
 weapons/melee/impact/mace:
   Archs:
+    - weapons/one-handed
     - weapons/melee
   Name: mace
   Type: Weapon

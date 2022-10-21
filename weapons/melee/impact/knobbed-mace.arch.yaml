@@ -1,5 +1,6 @@
 weapons/melee/impact/knobbed-mace:
   Archs:
+    - weapons/one-handed
     - weapons/melee/impact/mace
   Name: knobbed mace
   Damage: 

@@ -1,5 +1,6 @@
 weapons/melee/impact/pernach:
   Archs:
+    - weapons/one-handed
     - weapons/melee/impact/mace
   Name: pernach
   Damage: 

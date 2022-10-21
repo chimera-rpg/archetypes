@@ -1,5 +1,6 @@
 weapons/melee/impact/haltere:
   Archs:
+    - weapons/one-handed
     - weapons/melee/impact/mace
   Anim: weapons/melee/impact/haltere
   Face: average

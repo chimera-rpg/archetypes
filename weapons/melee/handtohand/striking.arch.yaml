@@ -1,5 +1,6 @@
 weapons/handtohand/striking:
-  Arch: weapons/handtohand
+  Archs:
+    - weapons/handtohand
   AttackTypes:
     Physical:
       Impact: 100

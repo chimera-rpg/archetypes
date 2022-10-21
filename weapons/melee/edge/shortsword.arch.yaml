@@ -1,5 +1,7 @@
 weapons/melee/edge/shortsword:
-  Arch: weapons/melee
+  Archs:
+    - weapons/one-handed
+    - weapons/melee
   Anim: weapons/melee/edge/shortsword
   Name: shortsword
   Face: average

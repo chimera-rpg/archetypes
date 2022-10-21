@@ -1,5 +1,6 @@
 weapons/melee/impact/telson:
   Archs:
+    - weapons/one-handed
     - weapons/melee/impact/mace
   Anim: weapons/melee/impact/telson
   Face: average
