@@ -1,6 +1,7 @@
 genera/theroid:
   Archs:
     - genera
+    - +bauplan/hominid
   Size: medium
   Matter:
     - Solid
