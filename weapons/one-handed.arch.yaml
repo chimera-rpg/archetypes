@@ -1,4 +1,4 @@
 weapons/one-handed:
   Slots:
     Uses:
-      - hand
+      hand: 1

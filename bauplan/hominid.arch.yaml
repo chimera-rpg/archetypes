@@ -1,31 +1,17 @@
 bauplan/hominid:
   Slots:
     Has:
-      - head
-      - ear
-      - ear
-      - face
-      - neck
-      - shoulder
-      - shoulder
-      - arm
-      - arm
-      - hand
-      - hand
-      - finger
-      - finger
-      - finger
-      - finger
-      - thumb
-      - finger
-      - finger
-      - finger
-      - finger
-      - thumb
-      - chest
-      - abdomen
-      - groin
-      - leg
-      - leg
-      - foot
-      - foot
+      head: 1
+      ear: 2
+      face: 1
+      neck: 1
+      shoulder: 2
+      arm: 2
+      hand: 2
+      finger: 4
+      thumb: 2
+      chest: 1
+      abdomen: 1
+      groin: 1
+      leg: 2
+      foot: 2

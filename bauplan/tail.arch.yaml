@@ -1,4 +1,4 @@
 bauplan/tail:
   Slots:
     Has:
-      - tail
+      tail: 1
