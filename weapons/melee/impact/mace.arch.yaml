@@ -3,7 +3,6 @@ weapons/melee/impact/mace:
     - weapons/one-handed
     - weapons/melee
   Name: mace
-  Type: Weapon
   CompetencyTypes:
     - Axes
   Damage:

@@ -1,5 +1,7 @@
 weapons/handtohand:
-  Type: Weapon
+  Type: Equippable
+  TypeHints:
+    - Weapon
   SkillTypes:
     - Hand-to-Hand
   Damage:
