@@ -1,6 +1,6 @@
 weapons/melee:
   Type: Equippable
   TypeHints:
-    - Weapon
+    - weapon
   SkillTypes:
     - Melee Combat
