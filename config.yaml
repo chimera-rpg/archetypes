@@ -7,7 +7,7 @@ Adjustments:
     Block:
       #        X: -1
         Y: -4
-    Equippable:
+    Equipable:
       Y: -2
     NPC:
       Y: -2

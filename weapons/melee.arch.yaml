@@ -1,5 +1,5 @@
 weapons/melee:
-  Type: Equippable
+  Type: Equipable
   TypeHints:
     - weapon
   SkillTypes:
