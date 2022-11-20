@@ -4,6 +4,9 @@ genera/theroid/meles/norsk:
   Anim: genera/theroid/meles/norsk
   Face: south
   Type: PC
+  Name: Norsk
+  Description: >
+    Cousin to Meles, the Norsk are of a slightly slender build.
   Attributes:
     Physical:
       Might: -1

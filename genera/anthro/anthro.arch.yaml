@@ -3,8 +3,10 @@ genera/anthro:
     - genera
     - +bauplan/hominid
   Type: Genus
+  Name: Anthro
+  Genera: Anthro
   Description: >
-    Anthro are a category of beings that share common humanoid characteristics. Their number is the most plentiful within Chimera, but much variety is to be found within their stock.
+    Anthro are a category of beings that share common humanoid characteristics. Their number is the most plentiful within Chimera and much variety is to be found within their stock.
 
     In the forging of the first world did the first-beings arise. These would come to be many in variety, but all stemmed from the same root -- the Anthro.
   Size: medium
