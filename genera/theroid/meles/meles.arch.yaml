@@ -6,6 +6,7 @@ genera/theroid/meles:
   Face: south
   Name: Meles
   Type: Species
+  Species: Meles
   Size: medium
   Height: 5
   Width: 2
