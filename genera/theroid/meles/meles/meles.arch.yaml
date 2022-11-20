@@ -1,0 +1,6 @@
+genera/theroid/meles/meles:
+  Archs:
+    - +genera/theroid/meles
+  Anim: genera/theroid/meles/meles
+  Face: south
+  Type: PC

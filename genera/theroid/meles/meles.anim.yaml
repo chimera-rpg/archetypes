@@ -1,5 +1,0 @@
-genera/theroid/meles:
-  Faces:
-    south:
-      - Image: genera/theroid/meles/south.png
-        Time: 0

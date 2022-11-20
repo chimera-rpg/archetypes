@@ -5,7 +5,7 @@ genera/theroid/meles:
   Anim: genera/theroid/meles
   Face: south
   Name: Meles
-  Type: PC
+  Type: Species
   Size: medium
   Height: 5
   Width: 2

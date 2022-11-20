@@ -3,6 +3,8 @@ genera/theroid:
     - genera
     - +bauplan/hominid
   Size: medium
+  Type: Genus
+  Anim: genera/theroid
   Matter:
     - Solid
     - Physical

@@ -1,6 +1,6 @@
 players/Dwarf:
   Archs:
-    - genera/Anthro
+    - genera/anthro
   Anim: players/Dwarf
   Face: south
   Name: "Dwarf"

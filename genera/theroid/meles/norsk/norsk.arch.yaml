@@ -1,0 +1,10 @@
+genera/theroid/meles/norsk:
+  Archs:
+    - +genera/theroid/meles
+  Anim: genera/theroid/meles/norsk
+  Face: south
+  Type: PC
+  Attributes:
+    Physical:
+      Might: -1
+      Haste: 1
