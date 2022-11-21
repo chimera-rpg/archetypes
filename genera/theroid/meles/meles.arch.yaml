@@ -5,6 +5,8 @@ genera/theroid/meles:
   Anim: genera/theroid/meles
   Face: south
   Name: Meles
+  Description: >
+    Meles consist of badger-like Theroids and have greater physical ability and good senses in comparison to other species.
   Type: Species
   Species: Meles
   Size: medium
