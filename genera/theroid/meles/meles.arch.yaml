@@ -2,11 +2,11 @@ genera/theroid/meles:
   Archs:
     - factions/common-folk
     - genera/theroid
-  Anim: genera/theroid/meles
+  Anim: genera/theroid/meles/meles
   Face: south
   Name: Meles
   Description: >
-    Meles consist of badger-like Theroids and have greater physical ability and good senses in comparison to other species.
+    Meles consist of badger-like Theroids and have greater physical ability and senses in comparison to other species.
   Type: Species
   Species: Meles
   Size: medium
