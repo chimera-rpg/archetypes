@@ -1,0 +1,14 @@
+bauplan/hefau:
+  Slots:
+    Has:
+      head: 1
+      ear: 2
+      face: 1
+      neck: 1
+      shoulder: 2
+      arm: 2
+      hand: 2
+      finger: 4
+      thumb: 2
+      chest: 1
+      abdomen: 1

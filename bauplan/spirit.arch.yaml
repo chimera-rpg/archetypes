@@ -1,0 +1,8 @@
+bauplan/spirit:
+  Slots:
+    Has:
+      face: 1
+      neck: 1
+      hand: 2
+      finger: 4
+      thumb: 2

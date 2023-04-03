@@ -1,0 +1,19 @@
+genera/tulpa:
+  Archs:
+    - genera
+    - +bauplan/spirit
+  Type: Genus
+  Name: Tulpa
+  Genera: Tulpa
+  Description: >
+    Tulpa are pseudo-material beings that inhabit the bodies of the dead. They originate from a strange and misty island filled with oversized insects and arachnids. 
+
+    Birthed from the depths of the second ocean, an island of constant mist and whispers was formed. It was this place that the Tulpa formed from the spirit energy of the mists themselves.
+  Size: medium
+  Anim: genera/tulpa
+  Matter:
+    - Solid
+    - Physical
+  Blocking:
+    - Physical
+    - Solid

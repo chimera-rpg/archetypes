@@ -1,0 +1,20 @@
+genera/hefau:
+  Archs:
+    - genera
+    - +bauplan/hefau
+    - +bauplan/tail
+  Type: Genus
+  Name: Hefau
+  Genera: Hefau
+  Description: >
+    Born of the breeding between powerful gods and primitive Anthro, the Hefau are an ancient race that share Anthro characteristics with serpent and crocodilian features. They are fewer in number and are often either revered or feared for their appearance and ancestry.
+
+    Lo, after the first-beings arose in the first world, the caretakers descended and partook in the pleasures of flesh. From a handful of these consummations were born the various forms of the Hefau.
+  Size: medium
+  Anim: genera/hefau
+  Matter:
+    - Solid
+    - Physical
+  Blocking:
+    - Physical
+    - Solid
