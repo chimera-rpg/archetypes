@@ -5,5 +5,6 @@ genera/theroid/meles/meles:
   Face: south
   Type: PC
   Name: Meles
+  Variety: Meles
   Description: >
-    Meles meles are the common sub-species of Meles.
+    Meles meles are the common variety of Meles.
