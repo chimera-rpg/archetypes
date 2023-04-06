@@ -5,7 +5,7 @@ genera/theroid:
   Size: medium
   Type: Genus
   Name: Theroid
-  Description: >
+  Description: |
     Theroid consists of humanoids with strong animal characteristics. They are far from animals, however, as they are frequently known for being some of the most cultured of all genera, and often prefer to enjoy an evening relaxing over taking on the unpleasantries of life.
 
     It is said that the Theroid came to be from a great wizard placing a curse on a collection of hamlets, merging the physical structure of the Anthro populace with the animals of the area.
@@ -18,3 +18,10 @@ genera/theroid:
   Blocking:
     - Physical
     - Solid
+  Attributes:
+    Physical:
+      Might: 1
+      Sense: 1
+    Arcane:
+    Spirit:
+      Sense: 1

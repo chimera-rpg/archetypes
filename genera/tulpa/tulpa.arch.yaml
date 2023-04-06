@@ -5,7 +5,7 @@ genera/tulpa:
   Type: Genus
   Name: Tulpa
   Genera: Tulpa
-  Description: >
+  Description: |
     Tulpa are pseudo-material beings that inhabit the bodies of the dead. They originate from a strange and misty island filled with oversized insects and arachnids. 
 
     Birthed from the depths of the second ocean, an island of constant mist and whispers was formed. It was this place that the Tulpa formed from the spirit energy of the mists themselves.
@@ -17,3 +17,19 @@ genera/tulpa:
   Blocking:
     - Physical
     - Solid
+  Attributes:
+    Physical:
+      Might: -1
+      Prowess: -1
+      Haste: -1
+      Reaction: 1
+    Arcane:
+      Focus: 1
+      Haste: -1
+    Spirit:
+      Might: 1
+      Prowess: 1
+      Focus: 1
+      Sense: 1
+      Haste: -1
+      Reaction: 1
