@@ -3,7 +3,7 @@ genera/theroid/meles/meles:
     - +genera/theroid/meles
   Anim: genera/theroid/meles/meles
   Face: south
-  Type: PC
+  Type: Variety
   Name: Meles
   Variety: Meles
   Description: >
