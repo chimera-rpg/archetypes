@@ -1,0 +1,28 @@
+genera/tulpa/bzhumar:
+  Archs:
+    - factions/common-folk
+    - genera/tulpa
+  Anim: genera/tulpa/bzhumar
+  Face: south
+  Name: Bzhumar
+  Description: >
+    Busrin are Tulpa that have imbued themselves into the deceased bodies of large insects and arachnids. They have decent physicality and decent spirituality.
+  Type: Species
+  Species: Bzhumar
+  Size: small
+  Height: 1
+  Width: 1
+  Depth: 1
+  Reach: 2
+  Attributes:
+    Physical:
+      Might: -1
+      Prowess: -1
+    Arcane:
+      Might: 1
+      Prowess: 1
+    Spirit:
+      Might: 1
+      Prowess: 1
+      Haste: 1
+      Reaction: 1

@@ -1,0 +1,27 @@
+genera/tulpa/busrin:
+  Archs:
+    - factions/common-folk
+    - genera/tulpa
+  Anim: genera/tulpa/busrin/dang-po
+  Face: south
+  Name: Busrin
+  Description: >
+    Busrin are Tulpa that have imbued themselves into the deceased bodies of large insects and arachnids. They have decent physicality and decent spirituality.
+  Type: Species
+  Species: Busrin
+  Size: medium
+  Height: 6
+  Width: 3
+  Depth: 2
+  Reach: 2
+  Attributes:
+    Physical:
+      Might: 1
+      Prowess: 1
+      Focus: 0
+      Sense: 0
+      Haste: 0
+      Reaction: 0
+    Arcane:
+    Spirit:
+      Prowess: 1

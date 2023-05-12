@@ -1,0 +1,5 @@
+genera/tulpa/bzhumar/dang-po:
+  Faces:
+    south:
+      - Image: genera/tulpa/bzhumar/dang-po/south.png
+        Time: 0

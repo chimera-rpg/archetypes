@@ -1,0 +1,17 @@
+genera/tulpa/bzhumar/dang-po:
+  Archs:
+    - factions/khuyana
+    - genera/tulpa/bzhumar
+  Anim: genera/tulpa/bzhumar/dang-po
+  Face: south
+  Name: Dang-po
+  Description: >
+    Bzhumar Dang-po are the base spirit form of Bzhumar.
+  Type: Variety
+  Variety: Bzhumar Dang-po
+  Attributes:
+    Physical:
+      Prowess: -1
+    Spirit:
+      Might: 1
+      Prowess: 1

@@ -1,0 +1,21 @@
+genera/tulpa/busrin/dang-po:
+  Archs:
+    - genera/tulpa/busrin
+  Anim: genera/tulpa/busrin/dang-po
+  Face: south
+  Name: Dang-po
+  Description: >
+    The Busrin Dang-po are the base form of Busrin.
+  Type: Variety
+  Variety: Busrin Dang-po
+  Size: medium
+  Height: 6
+  Width: 3
+  Depth: 2
+  Reach: 2
+  Attributes:
+    Physical:
+      Might: 1
+    Arcane:
+    Spirit:
+      Might: 1

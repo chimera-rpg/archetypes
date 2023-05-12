@@ -1,0 +1,5 @@
+genera/tulpa/busrin/dang-po:
+  Faces:
+    south:
+      - Image: genera/tulpa/busrin/dang-po/south.png
+        Time: 0
