@@ -1,10 +1,10 @@
-factions/common-folk:
+factions/khuyana:
   Type: Faction
-  Name: Common-folk
+  Name: Khuyana
   Factions:
-    - Common-folk
+    - Khuyana
   Attitudes:
     Factions:
       "Animus": Hostile
       "Sun-cursed": Neutral
-      "Khuyana": Neutral
+      "Common-folk": Neutral
