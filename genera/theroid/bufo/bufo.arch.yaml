@@ -1,0 +1,26 @@
+genera/theroid/bufo:
+  Archs:
+    - factions/common-folk
+    - genera/theroid
+  Anim: genera/theroid/bufo/bufo
+  Face: south
+  Name: Bufo
+  Description: >
+    Bufo are generally large toad-like creatures that have thick skin and decent strength. They are generally slower in reaction and movement than other Theroids.
+  Type: Species
+  Species: Bufo
+  Size: medium
+  Height: 6
+  Width: 3
+  Depth: 2
+  Reach: 2
+  Attributes:
+    Physical:
+      Might: 1
+      Prowess: 2
+      Focus: 0
+      Sense: 0
+      Haste: -1
+      Reaction: -1
+    Arcane:
+    Spirit:

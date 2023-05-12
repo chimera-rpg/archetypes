@@ -1,0 +1,5 @@
+genera/theroid/bufo/bufo:
+  Faces:
+    south:
+      - Image: genera/theroid/bufo/bufo/south.png
+        Time: 0

@@ -1,0 +1,10 @@
+genera/theroid/bufo/bufo:
+  Archs:
+    - +genera/theroid/bufo
+  Anim: genera/theroid/bufo/bufo
+  Face: south
+  Type: Variety
+  Name: Bufo
+  Variety: Bufo
+  Description: >
+    Bufo bufo are the most common variety of Bufo.
