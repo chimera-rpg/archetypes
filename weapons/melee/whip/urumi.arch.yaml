@@ -1,0 +1,19 @@
+weapons/melee/whip/urumi:
+  Archs:
+    - weapons/one-handed
+    - weapons/melee
+  Anim: weapons/melee/whip/urumi
+  Face: average
+  AttackTypes:
+    Physical:
+      Edged: 100
+  CompetencyTypes:
+    - Whips
+  Damage: 
+    Value: 6
+    AttributeBonus:
+      Physical:
+        Might: 1
+        Focus: 1
+        Reaction: 1
+  RecoveryTime: 300

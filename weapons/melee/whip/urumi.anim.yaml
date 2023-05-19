@@ -1,0 +1,4 @@
+weapons/melee/whip/urumi:
+  Faces:
+    average:
+      - Image: weapons/melee/whip/urumi.png

@@ -1,0 +1,20 @@
+weapons/melee/whip/chain:
+  Archs:
+    - weapons/one-handed
+    - weapons/melee
+  Anim: weapons/melee/whip/whip
+  Face: average
+  AttackTypes:
+    Physical:
+      Impact: 70
+      Pierce: 10
+      Edged: 20
+  CompetencyTypes:
+    - Whips
+  Damage: 
+    Value: 4
+    AttributeBonus:
+      Physical:
+        Might: 1
+        Focus: 1
+  RecoveryTime: 200

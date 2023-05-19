@@ -1,0 +1,4 @@
+weapons/melee/whip/chain:
+  Faces:
+    average:
+      - Image: weapons/melee/whip/chain.png
